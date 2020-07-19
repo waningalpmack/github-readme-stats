@@ -23,6 +23,9 @@
     ·
     <a href="https://github.com/anuraghazra/github-readme-stats/issues">Request Feature</a>
   </p>
+  <p align="center">
+    <a href="readme_cn.md">简体中文</a>
+  </p>
 </p>
 <p align="center">Loved the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
 
